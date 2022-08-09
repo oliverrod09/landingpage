@@ -300,7 +300,7 @@ footer{
     }
 
     .section--part{
-        margin-bottom: 20vh;
+        margin-bottom: 150px;
         box-shadow: 0px 5px 30px 10px var(--color-oscuro);
     }
 
@@ -310,7 +310,7 @@ footer{
 
     .section__main{
         box-shadow: none;
-        max-height: 700px;
+        max-height: 600px;
     }
     
     .imagen{
