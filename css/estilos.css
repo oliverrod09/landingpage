@@ -83,7 +83,7 @@ header{
 .section__main{
     width: 90%;
     height: 90vh;
-    max-height: fit-content;
+    max-height: 1500px;
     margin: 0 auto;
     background-color: var(--color-oscurom); 
     
